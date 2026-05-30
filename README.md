@@ -2,7 +2,9 @@
 
 A simple three-stage (Todo → In Progress → Done) task manager with authentication.
 
-**Live Demo:** [Add your deployed URL here]
+**Live Demo:** [https://task-manager-app-two-murex.vercel.app](https://task-manager-app-two-murex.vercel.app)
+
+**Backend API:** [https://task-manager-app-9yp2.onrender.com](https://task-manager-app-9yp2.onrender.com)
 
 ## Tech Stack
 
